@@ -14,12 +14,11 @@
 * [🌐 Redes, Sistemas y Bastionado](./ciberseguridad/redes-y-sistemas.md)
 * [📑 Formación y Becas Google](./ciberseguridad/beca-google.md)
 
-### 📊 2. Análisis de Datos
-* [📈 Actividad 1: Bojo Busido](./analisis-datos/bojo-busido.md)
-* [📚 Actividad 2: Fantasía (Script de Biblioteca)](./analisis-datos/fantasia.md)
-* [☁️ Actividad 3: Nube (Análisis de Servidores)](./analisis-datos/nube.md)
+## Sistemas Gestores
 
----
+- 🥋 [Actividad 1 — Bojo- Bushido](https://github.com/Atenea-glitch/bojobushido)
+- 📚 [Actividad 2 — Fantasía](https://github.com/Atenea-glitch/fantasia)
+- ☁️ [Actividad 3 — Nube](https://github.com/Atenea-glitch/nube)
 
 ## 📬 Contacto
 * **LinkedIn:** [Tu Nombre / Perfil](https://linkedin.com/in/tu-usuario)
