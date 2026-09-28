@@ -19,11 +19,6 @@
 * [📚 Actividad 2: Fantasía (Script de Biblioteca)](./analisis-datos/fantasia.md)
 * [☁️ Actividad 3: Nube (Análisis de Servidores)](./analisis-datos/nube.md)
 
-### 🛠️ 3. Proyectos Base y Electrónica
-* [⚙️ Proyecto 1: Microcontroladores y Lógica](./proyectos-antiguos/proyecto-1.md)
-* [💡 Proyecto 2: Automatización y Circuitos](./proyectos-antiguos/proyecto-2.md)
-* [🔌 Proyecto 3: Desarrollo Inicial](./proyectos-antiguos/proyecto-3.md)
-
 ---
 
 ## 📬 Contacto
