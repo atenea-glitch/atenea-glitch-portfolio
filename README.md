@@ -1,7 +1,7 @@
 # Mi Portfolio
 
-⚡ **Sobre mí**
-Mi camino en la tecnología empezó en un Grado Superior de Electrónica. Fue en el segundo año, al tocar la programación de microcontroladores y lógica, cuando me picó la curiosidad por el software y me quedé con ganas de profundizar más en ese mundo.
+⚡ **Sobre mí**.   
+                Mi camino en la tecnología empezó en un Grado Superior de Electrónica. Fue en el segundo año, al tocar la programación de microcontroladores y lógica, cuando me picó la curiosidad por el software y me quedé con ganas de profundizar más en ese mundo.
  Desde entonces he seguido aprendiendo de forma autodidacta: leyendo, viendo tutoriales y explorando áreas como la analítica de datos, centrado en reforzar los fundamentos del software, las redes y la seguridad.
 
 🎯 **¿Qué busco ahora?**
