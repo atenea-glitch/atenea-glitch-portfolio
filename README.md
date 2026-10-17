@@ -9,7 +9,7 @@
 
 ## 📂 Índice General de Contenidos
 
-### 🛡️ 1. Ciberseguridad e Informática
+### 🛡️ 1. Ciberseguridad 
 * [📘 Declaración personal y Fundamentos](./ciberseguridad/declaracion.md)
 * [🌐 Redes, Sistemas y Bastionado](./ciberseguridad/redes-y-sistemas.md)
 * [📑 Formación y Becas Google](./ciberseguridad/beca-google.md)
@@ -20,9 +20,3 @@
 - 📚 [Actividad 2 — Fantasía](https://github.com/Atenea-glitch/fantasia)
 - ☁️ [Actividad 3 — Nube](https://github.com/Atenea-glitch/nube)
 
-## 📬 Contacto
-* **LinkedIn:** [Tu Nombre / Perfil](https://linkedin.com/in/tu-usuario)
-* **Email:** tu-email@ejemplo.com
-
-
- 
